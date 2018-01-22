@@ -1,0 +1,1 @@
+scaling factor of 1 pixel to meter: 1.000e-01
